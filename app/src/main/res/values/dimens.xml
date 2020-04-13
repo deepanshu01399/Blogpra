@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="login_card_corner_radius">5dp</dimen>
+    <dimen name="company_logo">120dp</dimen>
+    <dimen name="login_field_margin">16dp</dimen>
+    <dimen name="login_title_size">16sp</dimen>
+    <dimen name="login_button_margin">32dp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="dp_ten">10dp</dimen>
+    <dimen name="textsize">8sp</dimen>
+    <dimen name="dp_eight">8dp</dimen>
+    <dimen name="dp_five">5dp</dimen>
+    <dimen name="dp_four">4dp</dimen>
+    <dimen name="dp_twelve">12dp</dimen>
+    <dimen name="sp_eighteen">18sp</dimen>
+    <dimen name="dp_twenty">20sp</dimen>
+    <dimen name="sp_sixteen">16sp</dimen>
+    <dimen name="dp_fourty">40dp</dimen>
+    <dimen name="transaction_fields_margin">20dp</dimen>
+    <dimen name="transaction_title_margin">240dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="dp_two">2dp</dimen>
+    <dimen name="dp_zero">0dp</dimen>
+    <dimen name="dp_onesixty">160dp</dimen>
+    <dimen name="sp_twenty">20sp</dimen>
+    <dimen name="dp_six">6dp</dimen>
+</resources>

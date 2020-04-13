@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.material.card.MaterialCardView
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:strokeWidth="@dimen/one_dp"
+    android:layout_marginTop="@dimen/dp_eight"
+    android:layout_marginBottom="@dimen/dp_eight"
+    app:strokeColor="#ccc"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/transaction_fields_margin"
+    android:layout_marginRight="@dimen/transaction_fields_margin"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -76,3 +89,4 @@
 
 
 </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>
